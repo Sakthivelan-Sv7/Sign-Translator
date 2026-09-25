@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
 import DataCapture from './components/DataCapture';
 import VocabularyCoverage from './components/VocabularyCoverage';
 import LiveRecognition from './components/LiveRecognition';
